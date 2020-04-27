@@ -1,0 +1,2 @@
+- init: create a git repo in cd, only first time
+- status
