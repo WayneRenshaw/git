@@ -1,3 +1,5 @@
 - init: create a git repo in cd, only first time
 - status
 - another chg
+- log --oneline
+- diff
